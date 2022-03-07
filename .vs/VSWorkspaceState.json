@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\css",
+    "\\assets\\css\\images"
   ],
-  "SelectedNode": "\\Z:\\Git-TSTC\\JamesFlippin.github.io",
   "PreviewInSolutionExplorer": false
 }
